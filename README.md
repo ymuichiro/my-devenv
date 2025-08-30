@@ -43,6 +43,12 @@ devenv up -d
 devenv shell
 ```
 
+環境へアクセスすると次のようにツールがインストールされた状態で shell が起動します。
+
+```bash
+git: 2.50.1 | node: v22.17.0 | npm: 10.9.2 | pnpm: 10.12.1 | terraform: 1.6.6 | psql: 17.5 | az: 2.58.0
+```
+
 ## 開発環境を終了する場合
 
 ```bash
